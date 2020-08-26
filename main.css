@@ -6,7 +6,7 @@ body{
 }
 
 .hero-bg {
-    background: url('../images/bg.jpg');
+    background: url('bg.jpg');
     background-position: 12% 80%;
     color: white;
     text-align: center;
